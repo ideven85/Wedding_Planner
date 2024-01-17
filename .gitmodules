@@ -1,0 +1,6 @@
+[submodule "Full-stack-Django-and-React"]
+	path = Full-stack-Django-and-React
+	url = https://github.com/PacktPublishing/Full-stack-Django-and-React
+[submodule "taxi-ng-app"]
+	path = taxi-ng-app
+	url = https://github.com/testdrivenio/taxi-ng-app
